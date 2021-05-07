@@ -1,0 +1,31 @@
+D:/korin/hw3_single_cycle_riscv_cpu/F74074122/src/top_tb.v {1 {vlog -work work -stats=none D:/korin/hw3_single_cycle_riscv_cpu/F74074122/src/top_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module top_tb
+
+Top level modules:
+	top_tb
+
+} {} {}} D:/korin/hw3_single_cycle_riscv_cpu/F74074122/src/CPU.v {1 {vlog -work work -stats=none D:/korin/hw3_single_cycle_riscv_cpu/F74074122/src/CPU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}} D:/korin/hw3_single_cycle_riscv_cpu/F74074122/src/top.v {1 {vlog -work work -stats=none D:/korin/hw3_single_cycle_riscv_cpu/F74074122/src/top.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CPU
+-- Compiling module SRAM
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} D:/korin/hw3_single_cycle_riscv_cpu/F74074122/src/SRAM.v {1 {vlog -work work -stats=none D:/korin/hw3_single_cycle_riscv_cpu/F74074122/src/SRAM.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SRAM
+
+Top level modules:
+	SRAM
+
+} {} {}}
